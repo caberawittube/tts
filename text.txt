@@ -1,1 +1,7 @@
+Catatan: Beberapa perangkat android menggunakan aplikasi lain seperti "playaudio" atau "madplay" untuk memutar file audio, pastikan aplikasi tersebut sudah terinstall dan diganti pada baris os.system
 
+Kode di atas akan mengambil teks dari link yang ditentukan, mengubahnya menjadi suara menggunakan gTTS, menyimpan suara dalam file audio.mp3, dan kemudian memutar file tersebut. Anda harus menyimpan file Python di dalam folder yang sama di perangkat Android Anda dan menyesuaikan jenis file audio yang digunakan pada baris save.
+
+Pastikan perangkat Anda terhubung dengan internet saat menjalankan kode ini karena gTTS menggunakan server Google untuk mengubah teks menjadi suara.
+
+Pastikan juga link yang digunakan valid dan dapat di akses
