@@ -15,8 +15,3 @@
     "thumbnail": "https://marketplace.canva.com/EAFH4NHZv_8/1/0/1131w/canva-white-mystery-movie-poster-UfgB1AQbfvk.jpg"
   }
 ]
-File JSON ini berisi array dengan tiga objek JSON, masing-masing menyimpan informasi tentang judul video, link video, dan thumbnail video. Setiap objek JSON memiliki tiga pasangan key-value: "title", "link", dan "thumbnail".
-
-
-
-
