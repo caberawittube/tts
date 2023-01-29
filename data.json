@@ -1,0 +1,13 @@
+[
+{
+"title": "Correo importante",
+"description": "No podre asistir a clase",
+"image": "image_url"
+},
+{
+"title": "Correo spam",
+"description": "Compre esta oferta",
+"image": "image_url"
+},
+...
+]
