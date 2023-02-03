@@ -1,17 +1,23 @@
 [
   {
-    "title": "Video 1",
-    "link": "https://contohweb.com/video1.mp4",
-    "thumbnail": "https://www.dramamilk.com/wp-content/uploads/2019/10/Joker-movie-dominates-Korean-box-office-thumbnail.jpg-copy.jpg"
+    "id": 1,
+    "title": "Big Buck Bunny",
+    "category": "Action",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnail" : "https://i2.wp.com/www.petakids.com/wp-content/uploads/2015/11/Cute-Red-Bunny.jpg"
   },
   {
-    "title": "Video 2",
-    "link": "https://contohweb.com/video2.mp4",
-    "thumbnail": "hhttps://d1csarkz8obe9u.cloudfront.net/posterpreviews/mystery-movie-poster-design-template-a6691fecba3925ec74259491de4e14df_screen.jpg?ts=1594179707"
+    "id": 2,
+    "title": "Movie 2",
+    "category": "Comedy",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnail" : "https://i2.wp.com/www.petakids.com/wp-content/uploads/2015/11/Cute-Red-Bunny.jpg"
   },
   {
-    "title": "Video 3",
-    "link": "https://contohweb.com/video3.mp4",
-    "thumbnail": "https://marketplace.canva.com/EAFH4NHZv_8/1/0/1131w/canva-white-mystery-movie-poster-UfgB1AQbfvk.jpg"
+    "id": 3,
+    "title": "Movie 3",
+    "category": "Drama",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnail" : "https://i2.wp.com/www.petakids.com/wp-content/uploads/2015/11/Cute-Red-Bunny.jpg"
   }
 ]
